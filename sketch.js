@@ -1,4 +1,4 @@
-var oxygenMuhs1 , oxygenMuhs1Img;
+/*var oxygenMuhs1 , oxygenMuhs1Img;
 var oxygenMuhs2 , oxygenMuhs2Img;
 var oxygenMuhs3 , oxygenMuhs3Img;
 
@@ -30,4 +30,4 @@ oxygenMuhs3.addImage(oxygenMuhs3Img);
 function draw(){
   background("purple")
   drawSprites();
-}
+}*/
